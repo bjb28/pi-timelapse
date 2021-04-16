@@ -3,6 +3,9 @@
 # Basic Settings #
 ##################
 
+# Set output directory. Defaults to current directory if left blank.
+output_dir:
+
 # Image resolution Set to empty object (`{ }`) to use default resolution.
 resolution: { }
   # width: 480
